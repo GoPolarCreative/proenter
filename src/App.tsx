@@ -36,7 +36,7 @@ const content = {
     intro: 'Reliable lawn mowing and garden maintenance that keeps residential and commercial properties tidy and presentable year round.',
     hero: '/michael-smith-bsld7GjQwjI-unsplash.jpg',
     description: 'Weekly, fortnightly or one off, Lawn Pro takes care of the work that keeps your property looking its best. Spend less time working on your property and more time enjoying it.',
-    phone: '021 047 7013', serviceLabel: 'What do you need help with?', services: ['Lawn mowing', 'Garden maintenance', 'Property tidy ups', 'Dog waste removal', 'Move out cleans', 'Builders cleans', 'Oven cleaning', 'Window cleaning'],
+    phone: '021 047 7013', serviceLabel: 'What do you need help with?', services: ['Lawn mowing', 'Garden maintenance', 'Property tidy ups', 'Dog waste removal'],
     stats: [['3', 'service options'], ['Year round', 'property care'], ['Local', 'Canterbury team']],
   },
 };
