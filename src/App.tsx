@@ -6,7 +6,7 @@ type Division = 'home' | 'pressure' | 'lawn';
 type Theme = 'gold' | 'blue' | 'green';
 
 const logos = {
-  home: '/10F7616B-291F-4681-8E03-FA52E7E20C26_-_corbyn_roberts.png',
+  home: '/logo.png',
   pressure: '/IMG_0744_-_corbyn_roberts.jpeg',
   lawn: '/IMG_1138_-_corbyn_roberts.png',
 };
